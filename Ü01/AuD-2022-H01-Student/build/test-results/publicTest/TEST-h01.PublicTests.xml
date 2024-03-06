@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h01.PublicTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-22T12:34:36" hostname="Air-von-Paula.fritz.box" time="0.076">
+  <properties/>
+  <testcase name="testPartitionListsAsCopyIteratively()" classname="h01.PublicTests" time="0.033"/>
+  <testcase name="testWrite()" classname="h01.PublicTests" time="0.016"/>
+  <testcase name="testRead()" classname="h01.PublicTests" time="0.003"/>
+  <testcase name="testPartitionListsInPlaceRecursively()" classname="h01.PublicTests" time="0.002"/>
+  <testcase name="testPartitionListsAsCopyRecursively()" classname="h01.PublicTests" time="0.003"/>
+  <testcase name="testPartitionListsInPlaceIteratively()" classname="h01.PublicTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

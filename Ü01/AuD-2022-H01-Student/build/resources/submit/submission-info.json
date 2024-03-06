@@ -1,0 +1,1 @@
+{"assignmentId":"h01","studentId":"xxx","firstName":"paula","lastName":"l","sourceSets":[{"name":"main","files":["h01/DoubleListOfListsProcessor.java","h01/ListItem.java","h01/Main.java"]},{"name":"publicTest","files":["h01/PublicTests.java"]},{"name":"test","files":["h01/DoubleListOfListsProcessorTests.java","h01/ExampleJUnitTest.java"]}]}

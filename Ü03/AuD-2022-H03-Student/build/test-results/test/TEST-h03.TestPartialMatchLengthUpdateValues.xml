@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h03.TestPartialMatchLengthUpdateValues" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-19T15:03:39" hostname="Air-von-Paula.fritz.box" time="0.048">
+  <properties/>
+  <testcase name="TestAsMatrix()" classname="h03.TestPartialMatchLengthUpdateValues" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

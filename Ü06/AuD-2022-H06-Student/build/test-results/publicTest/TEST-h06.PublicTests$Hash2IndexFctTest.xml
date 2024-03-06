@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h06.PublicTests$Hash2IndexFctTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-29T07:31:16" hostname="Air-von-Paula.fritz.box" time="0.001">
+  <properties/>
+  <testcase name="testApply()" classname="h06.PublicTests$Hash2IndexFctTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

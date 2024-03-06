@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h06.PublicTests$MyIndexHoppingHashMapTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-06-29T07:31:16" hostname="Air-von-Paula.fritz.box" time="0.012">
+  <properties/>
+  <testcase name="testGetValue()" classname="h06.PublicTests$MyIndexHoppingHashMapTest" time="0.001"/>
+  <testcase name="testFib()" classname="h06.PublicTests$MyIndexHoppingHashMapTest" time="0.001"/>
+  <testcase name="testPut()" classname="h06.PublicTests$MyIndexHoppingHashMapTest" time="0.001"/>
+  <testcase name="testContainsKey()" classname="h06.PublicTests$MyIndexHoppingHashMapTest" time="0.001"/>
+  <testcase name="testRemove()" classname="h06.PublicTests$MyIndexHoppingHashMapTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

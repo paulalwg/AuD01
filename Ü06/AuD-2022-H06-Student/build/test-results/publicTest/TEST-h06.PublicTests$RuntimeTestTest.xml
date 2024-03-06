@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h06.PublicTests$RuntimeTestTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-29T07:31:16" hostname="Air-von-Paula.fritz.box" time="0.058">
+  <properties/>
+  <testcase name="testCreateTestSet()" classname="h06.PublicTests$RuntimeTestTest" time="0.026"/>
+  <testcase name="testTest()" classname="h06.PublicTests$RuntimeTestTest" time="0.009"/>
+  <testcase name="testGenerateTestdata()" classname="h06.PublicTests$RuntimeTestTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

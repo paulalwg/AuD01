@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h02.ExampleJUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-06T16:37:42" hostname="Air-von-Paula.fritz.box" time="0.041">
+  <properties/>
+  <testcase name="testAddition()" classname="h02.ExampleJUnitTest" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

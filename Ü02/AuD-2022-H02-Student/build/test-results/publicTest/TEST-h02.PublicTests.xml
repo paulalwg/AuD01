@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h02.PublicTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-06T16:35:56" hostname="Air-von-Paula.fritz.box" time="0.051">
+  <properties/>
+  <testcase name="testExtract()" classname="h02.PublicTests" time="0.027"/>
+  <testcase name="testWithIterator()" classname="h02.PublicTests" time="0.007"/>
+  <testcase name="testInsert()" classname="h02.PublicTests" time="0.004"/>
+  <testcase name="testConstructor()" classname="h02.PublicTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

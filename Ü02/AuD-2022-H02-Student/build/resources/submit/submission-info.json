@@ -1,0 +1,1 @@
+{"assignmentId":"h02","studentId":"pl45sali","firstName":"paula","lastName":"ludwig","sourceSets":[{"name":"main","files":["h02/ListOfArrays.java","h02/ListOfArraysItem.java","h02/Main.java","h02/ElementWithIndex.java","h02/ListOfArraysIterator.java"]},{"name":"publicTest","files":["h02/PublicTests.java"]},{"name":"test","files":["h02/ExampleJUnitTest.java"]}]}
